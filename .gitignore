@@ -1,0 +1,44 @@
+# Visual Studio 
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.obj
+*.aps
+*.dbmdl
+*.jfm
+
+# Visual Studio Cache 
+.vs/
+
+# Binaries and Object Files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.log
+*.bak
+*.ncb
+*.sbr
+*.ilk
+*.lib
+*.o
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# IIS Express files
+*.vshost.*
+app_offline.htm
+
+# Generated source files for Web Forms
+*.designer.vb
+
+# Hide Windows temporary files
+Thumbs.db
