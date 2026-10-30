@@ -38,7 +38,8 @@ packages/
 app_offline.htm
 
 # Generated source files for Web Forms
-*.designer.vb
+# *.designer.vb is no longer ignored: the projects compile these files (control declarations
+# and My Project designers), so the build fails when they are missing from the repository.
 
 # Hide Windows temporary files
 Thumbs.db
